@@ -1,1 +1,1 @@
-Sitemap: https://bioswe.github.io/temp-blog/sitemap.xml
+Sitemap: https://bioswe.github.io/blog/sitemap.xml
