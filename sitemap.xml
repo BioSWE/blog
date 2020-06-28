@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bioswe.github.io/blog/2020/06/27/first-post.html</loc>
+<loc>https://bioswe.github.io/2020/06/27/first-post.html</loc>
 <lastmod>2020-06-27T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://bioswe.github.io/blog/about/</loc>
+<loc>https://bioswe.github.io/about/</loc>
 </url>
 <url>
-<loc>https://bioswe.github.io/blog/</loc>
+<loc>https://bioswe.github.io/</loc>
 </url>
 <url>
-<loc>https://bioswe.github.io/blog/search/</loc>
+<loc>https://bioswe.github.io/search/</loc>
 </url>
 <url>
-<loc>https://bioswe.github.io/blog/categories/</loc>
+<loc>https://bioswe.github.io/categories/</loc>
 </url>
 </urlset>
