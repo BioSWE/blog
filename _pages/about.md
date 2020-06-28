@@ -10,7 +10,9 @@ I'm a 29 year old who has worked as a data analyst, data engineer, and Python de
 Since I have an abundance of time, and the world is more or less at a standstill, I'm using this time to hopefully set up a future working on important and impactful problems. 
 
 ## What
-I'm attempting to **publicly** learn the skills and knowledge necessary to build software tools for the biosciences. Starting from (almost) the beginning, many of the first **SWE** courses and projects will be intermediate level, while those for **biology** will be more foundational.
+**I'm attempting to publicly learn the skills and knowledge necessary to build software tools for the biosciences.**
+
+Starting from (almost) the beginning, many of the first SWE courses and projects will be intermediate level, while those for biology will be more foundational.
 
 I will maintain a curriculum page, updating and refining it as I work through the material. If you share my excitement about the future, please follow along and learn with me!
 
