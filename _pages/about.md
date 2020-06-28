@@ -4,10 +4,24 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+### Who
+I'm a 29 year old who has worked as a data analyst, data engineer, and Python developer. I left my job in March 2020 (resignation sent in late January) to travel and reflect... and then, well, a global pandemic put those plans on hold. Since I have an abundance of time, and the world is more or less at a standstill, I'm using this time to hopefully set up a future working on important and impactful problems. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+### What
+I'm attempting to **publicly** learn the skills and knowledge necessary to build software tools for the biosciences. Starting from (almost) the beginning, many of the first **SWE** courses and projects will be intermediate level, while those for **biology** will be more foundational.
+
+I will maintain a curriculum page, updating and refining it as I work through the material. If you share my excitement about the future, please follow along and learn with me!
+
+**Note:** Everyone is welcome. This is an aggressively inclusive space. Intolerance will not be tolerated. :)
+
+### Why
+I believe that the intersection of the biosciences and computing will bring some of the most exciting and transformative changes in my lifetime. I also believe it would be a supreme mistake to live my life and not participate. 
+
+I don't want that regret, so this is my attempt to build an exciting, impactful life in that intersection. 
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
+
+
+
