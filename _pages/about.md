@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Who
-I'm a 29 year old who has worked as a data analyst, data engineer, and Python developer. I left my job in March 2020 (resignation sent in late January) to travel... and then, well, a global pandemic put those plans on hold. 
+I'm a self-taught programmer who has worked as a data analyst, data engineer, and Python developer. I left my job in March 2020 (resignation sent in late January) to travel... and then, well, a global pandemic put those plans on hold. 
 
 Now, I'm using this time to set up a future working on problems I believe to be important and impactful. 
 
