@@ -7,7 +7,7 @@ permalink: /about/
 ## Who
 I'm a 29 year old who has worked as a data analyst, data engineer, and Python developer. I left my job in March 2020 (resignation sent in late January) to travel... and then, well, a global pandemic put those plans on hold. 
 
-Since I have an abundance of time, and the world is more or less at a standstill, I'm using this time to hopefully set up a future working on important and impactful problems. 
+Now, I'm using this time to set up a future working on problems I believe to be important and impactful. 
 
 ## What
 **I'm attempting to publicly learn the skills and knowledge necessary to build software tools for the biosciences.** 
