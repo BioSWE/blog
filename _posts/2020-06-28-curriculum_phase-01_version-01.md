@@ -18,4 +18,13 @@ I want to keep the feedback loop long enough to be representative but short enou
 | [Complete Node.js Developer (Udemy)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)      |  35  |
 | [Intro Biology - Secret of Life (MIT)](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) |  14  |
 
+## A Note On Content
 
+These starting courses should reflect two things: 
+
+1. I have zero *formal* bio education. 
+2. I've worked as a data engineer for a few years using Python, NoSQL, and Airflow automate data ETL pipelines.
+
+I'm starting with MIT's "Secret of Life" since it's one of the highest recommended free intro bio courses I've found online. 
+
+And finally, I'm using the SWE courses to a) fill gaps in foundational knowledge (especially algorithms and data structures) and b) improve my backend engineering skills so that I can implement necessary computational logic for the tools I hope to build and then deploy them. 
