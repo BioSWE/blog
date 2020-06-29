@@ -27,6 +27,6 @@ These starting courses should reflect two things:
 
 I'm starting with MIT's "Secret of Life" since it's one of the highest recommended free intro bio courses I've found online. 
 
-I'm using the SWE courses to a) fill gaps in foundational knowledge (especially algorithms and data structures) and b) improve my backend engineering skills so that I can implement necessary computational logic for the tools I hope to build and then deploy them. 
+I'm using the SWE courses to **a)** fill gaps in foundational knowledge (especially algorithms and data structures) and **b)** improve my backend engineering skills so that I can implement necessary computational logic for the tools I hope to build and then deploy them. 
 
 While I have some experience working with Flask and Django in the Python ecosystem, I'm deciding now to focus on Node. The idea is that a deeper understanding of Javascript and its full web stack might translate to a shorter learning curve and faster development cycles when I try to build frontend tools. Also, Javascript is eating the world, so...
