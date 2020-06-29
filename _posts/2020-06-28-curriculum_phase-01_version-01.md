@@ -1,8 +1,8 @@
 ---
 toc: true
 layout: post
-description: The courses I'm starting with...
-categories: [curriculum]
+description: A starting point.
+categories: []
 title: Curriculum - Phase 01 - Version 01
 ---
 Here are the courses I'll be working through over the next week, along with initial study hour goals. Next Sunday, I'll review my progress and make adjustments as needed. 
