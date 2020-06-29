@@ -23,7 +23,7 @@ I want to keep the feedback loop long enough to be representative but short enou
 These starting courses should reflect two things: 
 
 1. I have zero *formal* bio education. 
-2. I've worked as a data engineer for a few years using Python, NoSQL, and Airflow automate data ETL pipelines, so I'm an experienced-ish developer.
+2. I've worked as a data engineer for a few years using Python, NoSQL, and Airflow to automate data ETL pipelines, so I'm an experienced-ish developer.
 
 I'm starting with MIT's "Secret of Life" since it's one of the highest recommended free intro bio courses I've found online. 
 
