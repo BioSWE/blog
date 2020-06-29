@@ -9,8 +9,6 @@ Here are the courses I'll be working through over the next week, along with init
 
 I want to keep the feedback loop long enough to be representative but short enough to cut/add without wasting too much time. I feel like weekly reviews on Sundays is a good place to start. 
 
-## Curriculum
-
 | Course | Study Hours per Week |
 | --------------------------------------------------------------------------------------------------------------- | ---- |
 | [The Missing Semester (MIT)](https://missing.csail.mit.edu/)                                                    |  14  |
