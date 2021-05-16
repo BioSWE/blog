@@ -1,48 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://bioswe.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bioswe.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-06-29T06:28:35-05:00</updated><id>https://bioswe.github.io/blog/feed.xml</id><title type="html">BioSWE</title><subtitle>Learning about the intersection of SWE and biology.</subtitle><entry><title type="html">Curriculum - Phase 01 - Version 01</title><link href="https://bioswe.github.io/blog/curriculum/resources/2020/06/28/curriculum_phase-01_version-01.html" rel="alternate" type="text/html" title="Curriculum - Phase 01 - Version 01" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>https://bioswe.github.io/blog/curriculum/resources/2020/06/28/curriculum_phase-01_version-01</id><content type="html" xml:base="https://bioswe.github.io/blog/curriculum/resources/2020/06/28/curriculum_phase-01_version-01.html">&lt;p&gt;Here are the courses I’ll be working through over the next week, along with initial study hour goals. Next Sunday, I’ll review my progress and make adjustments as needed.&lt;/p&gt;
-
-&lt;p&gt;I want to keep the feedback loop long enough to be representative but short enough to cut/add without wasting too much time. I feel like weekly reviews on Sundays is a good place to start.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Course&lt;/th&gt;
-      &lt;th&gt;Study Hours per Week&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://missing.csail.mit.edu/&quot;&gt;The Missing Semester (MIT)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.coursera.org/learn/algorithms-part1&quot;&gt;Algorithms I (Princeton)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.udemy.com/course/the-complete-nodejs-developer-course-2/&quot;&gt;Complete Node.js Developer (Udemy)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;35&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3&quot;&gt;Intro Biology - Secret of Life (MIT)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;a-note-on-content&quot;&gt;A Note On Content&lt;/h2&gt;
-
-&lt;p&gt;These starting courses should reflect two things:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I have zero &lt;em&gt;formal&lt;/em&gt; bio education.&lt;/li&gt;
-  &lt;li&gt;I’ve worked as a data engineer for a few years using Python, NoSQL, and Airflow to automate data ETL pipelines, so I’m an experienced-ish developer.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I’m starting with MIT’s “Secret of Life” since it’s one of the highest recommended free intro bio courses I’ve found online.&lt;/p&gt;
-
-&lt;p&gt;I’m using the SWE courses to &lt;strong&gt;a)&lt;/strong&gt; fill gaps in foundational knowledge (especially algorithms and data structures) and &lt;strong&gt;b)&lt;/strong&gt; improve my backend engineering skills so that I can implement necessary computational logic for the tools I hope to build and deploy.&lt;/p&gt;
-
-&lt;p&gt;While I have some experience working with Flask and Django in the Python ecosystem, I’m deciding now to focus on Node. The idea is that a deeper understanding of Javascript and its full web stack might translate to a shorter learning curve and faster development cycles when I try to build frontend tools. Also, Javascript is eating the world, so…&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the courses I’ll be working through over the next week, along with initial study hour goals. Next Sunday, I’ll review my progress and make adjustments as needed.</summary></entry><entry><title type="html">First Post</title><link href="https://bioswe.github.io/blog/2020/06/27/first-post.html" rel="alternate" type="text/html" title="First Post" /><published>2020-06-27T00:00:00-05:00</published><updated>2020-06-27T00:00:00-05:00</updated><id>https://bioswe.github.io/blog/2020/06/27/first-post</id><content type="html" xml:base="https://bioswe.github.io/blog/2020/06/27/first-post.html">&lt;p&gt;Well, I did what I said I was going to do:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://bioswe.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bioswe.github.io/blog/" rel="alternate" type="text/html" /><updated>2021-05-16T05:39:24-05:00</updated><id>https://bioswe.github.io/blog/feed.xml</id><title type="html">BioSWE</title><subtitle>Learning about the intersection of SWE and biology.</subtitle><entry><title type="html">First Post</title><link href="https://bioswe.github.io/blog/2020/06/27/first-post.html" rel="alternate" type="text/html" title="First Post" /><published>2020-06-27T00:00:00-05:00</published><updated>2020-06-27T00:00:00-05:00</updated><id>https://bioswe.github.io/blog/2020/06/27/first-post</id><content type="html" xml:base="https://bioswe.github.io/blog/2020/06/27/first-post.html">&lt;p&gt;Well, I did what I said I was going to do:&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;First tweet into the void: &lt;a href=&quot;https://t.co/hKljfu2xJE&quot;&gt;pic.twitter.com/hKljfu2xJE&lt;/a&gt;&lt;/p&gt;&amp;mdash; BioSWE (@aBioSWE) &lt;a href=&quot;https://twitter.com/aBioSWE/status/1276691963358531585?ref_src=twsrc%5Etfw&quot;&gt;June 27, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
